@@ -6,7 +6,7 @@ One of my favorite coding hobby? Pick an animation on Dribbble and rebuild it fr
 <br />
 
 ## Current projects:
-:weight_lifting_woman: [#WORD](https://workoutrecorddiary.netlify.app/)- I'm currently designing and building a React app to track and record workout performances.<br>
+:weight_lifting_woman: [#WORD](https://workoutrecorddiary.netlify.app/) - I'm currently designing and building a React app to track and record workout performances.<br>
 :writing_hand: Writing an article about mentoring.
 <br />
 <br />
