@@ -1,16 +1,37 @@
-### Hi there 👋
+# Hi there, I'm Clara 👋🏻 
 
-<!--
-**ClaraChaouat/ClaraChaouat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Frontend Web Developer who aims to create experiences that look and function beautifully across anything that can access the web. <br>My goal is to create front-end code that’s modular, responsive, performant, extensible, accessible, and future-friendly.<br>
+One of my favorite coding hobby? Pick an animation on Dribbble and rebuild it from scratch using HTML, CSS and Vanilla JavaScript.
+<br />
+<br />
 
-Here are some ideas to get you started:
+## Current projects:
+:weight_lifting_woman: [#WORD](https://workoutrecorddiary.netlify.app/)- I'm currently designing and building a React app to track and record workout performances.<br>
+:writing_hand: Writing an article about mentoring.
+<br />
+<br />
+## Languages and Tools:
+<img align="left" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/> <img align="left" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Javascript Logo" width="50" height="50"/> <img align="left" src="https://cdn.worldvectorlogo.com/logos/html5-2.svg" alt="HTML5 Logo" width="50" height="50"/>  <img align="left" alt="CSS3"  width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> <img align="left" src="https://cdn.worldvectorlogo.com/logos/svelte-wordmark-1.svg" alt="Svelte Logo" width="60" height="60"/> <img align="left" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="Github Logo" width="50" height="50"/>  <img align="left" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git Logo" width="50" height="50"/>  <img align="left" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5.svg" alt="Bootsrap Logo" width="60" height="60"/>  <img align="left" src="https://cdn.worldvectorlogo.com/logos/jquery.svg" alt="Jquery Logo" width="50" height="50"/>   <img align="left" src="https://cdn.worldvectorlogo.com/logos/python-4.svg" alt="Python Logo" width="50" height="50"/> <img align="left" src="https://cdn.worldvectorlogo.com/logos/salesforce-2.svg" alt="Salesforce Logo" width="50" height="50"/> <img align="left" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg" alt="Visual studio code Logo" width="50" height="50"/> <img align="left" src="https://webcomponents.dev/assets/lib/lwc.svg" alt="Lightning web component" width="50" height="50"/>
+<br />
+<br />
+<br />
+## My values:
+:family_woman_woman_girl_boy: Share knowledge, teamwork & communication<br>
+:white_heart: Humility & genuine attitude<br>
+:woman_student: Curiosity & constant process of learning<br>
+:palms_up_together: Open minded
+<br />
+<br />
+<br />
+## My hobbies:
+:weight_lifting_woman: Can't do without Crossfit<br />
+:earth_africa: travelling is my therapy<br />
+:bread: French toast are is guilty pleasure<br />
+<br />
+<br />
+<br />
+## Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<br />
+<br />
