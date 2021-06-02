@@ -38,8 +38,8 @@ One of my favorite coding hobby? Pick an animation on Dribbble and rebuild it fr
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[twitter]: https://twitter.com/indrajeet_nikam
-[linkedin]: https://www.linkedin.com/in/indrajeet-nikam-3737a8101/
+[twitter]: https://twitter.com/ChaouatClara
+[linkedin]: https://www.linkedin.com/in/clarachaouat/
 
 
 <br />
