@@ -31,7 +31,7 @@ One of my favorite coding hobby? Pick an animation on Dribbble and rebuild it fr
 
 ## My hobbies:
 :weight_lifting_woman: Can't do without Crossfit<br />
-:earth_africa: travelling is my therapy<br />
+:earth_africa: Travelling is my therapy<br />
 :bread: French toast is guilty pleasure<br />
 <br />
 <br />
