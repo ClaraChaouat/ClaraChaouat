@@ -21,18 +21,18 @@ One of my favorite coding hobby? Pick an animation on Dribbble and rebuild it fr
 <br />
 
 ## My values:
-:family_woman_woman_girl_boy: Share knowledge, teamwork & communication<br>
-:white_heart: Humility & genuine attitude<br>
-:woman_student: Curiosity & constant process of learning<br>
-:palms_up_together: Open minded
+:family_woman_woman_girl_boy: Share knowledge, teamwork & communication.<br>
+:white_heart: Humility & genuine attitude.<br>
+:woman_student: Curiosity & constant process of learning.<br>
+:palms_up_together: Open minded.
 <br />
 <br />
 <br />
 
 ## My hobbies:
-:weight_lifting_woman: Can't do without Crossfit<br />
-:earth_africa: Travelling is my therapy<br />
-:bread: French toast is guilty pleasure<br />
+:weight_lifting_woman: Can't do without Crossfit.<br />
+:earth_africa: Travelling is my therapy.<br />
+:bread: French toast is guilty pleasure.<br />
 <br />
 <br />
 <br />
