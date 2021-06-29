@@ -20,10 +20,6 @@ One of my favorite coding hobby? Pick an animation on Dribbble and rebuild it fr
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
 
 
 
