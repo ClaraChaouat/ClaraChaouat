@@ -6,7 +6,8 @@ One of my favorite coding hobby? Pick an animation on Dribbble and rebuild it fr
 <br />
 
 ## Current projects:
-:weight_lifting_woman: [#WORD](https://workoutrecorddiary.netlify.app/) - I'm currently designing and building a React app to track and record workout performances.<br>
+:weight_lifting_woman: [#WORD](https://workoutrecorddiary.netlify.app/) - I'm currently designing and building a React app to track and record workout performances,<br>
+:beer: Fine-tuning the last details of the [#beers menu](https://beercatalog.netlify.app/) project, <br>
 :writing_hand: Just finished writing an [article](https://medium.com/@clara.chaouat/how-mentorship-can-level-up-your-coding-skills-after-a-bootcamp-or-as-a-self-taught-developer-b3a536918c20) about mentorship.
 <br />
 <br />
