@@ -1,6 +1,6 @@
 # Hi there, I'm Clara 👋🏻 
 
-I'm a Frontend Web Developer who aims to create experiences that look and function beautifully across anything that can access the web. <br>My goal is to create front-end code that’s modular, responsive, performant, extensible, accessible, and future-friendly.<br>
+I'm a creative Frontend Web Developer who aims to create experiences that look and function beautifully across anything that can access the web. <br>My goal is to create front-end code that’s modular, responsive, performant, extensible, accessible, and future-friendly.<br>
 One of my favorite coding hobby? Pick an animation on Dribbble and rebuild it from scratch using HTML, CSS and Vanilla JavaScript.
 <br />
 <br />
