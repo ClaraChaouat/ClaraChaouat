@@ -7,12 +7,12 @@ One of my favorite coding hobby? Pick an animation on Dribbble and rebuild it fr
 
 ## Current projects:
 :weight_lifting_woman: [#WORD](https://workoutrecorddiary.netlify.app/) - I'm currently designing and building a React app to track and record workout performances,<br>
-:beer: [Beers menu](https://beercatalog.netlify.app/) - I'm fine-tuning the last details of the project, <br>
 :writing_hand: Just finished writing an [article](https://medium.com/@clara.chaouat/how-mentorship-can-level-up-your-coding-skills-after-a-bootcamp-or-as-a-self-taught-developer-b3a536918c20) about mentorship.
 <br />
 <br />
 
 ## Previous projects:
+:beer: [Beers menu](https://beercatalog.netlify.app/) - Beer menu - Click on the "see more" button to get the beer details, <br>
 :artist: [Handcrafted animated navigation bar](https://toolbar-animation-icon.netlify.app/) - Animated navigation bar,<br>
 :paintbrush: [Layout replica](https://layoutgridflexboxchallenge.netlify.app/) - Layout replica based on a dribbble mockup, <br>
 :woman_artist: [Wix layout replica](https://wix-layout-replica.netlify.app/) - Wix webpage layout replica.
