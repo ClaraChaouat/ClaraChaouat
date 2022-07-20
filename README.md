@@ -15,7 +15,7 @@ One of my favorite coding hobby? Pick an animation on Dribbble and rebuild it fr
 ## Previous projects:
 :beer: [Beers menu](https://beersmenu.netlify.app/) - Beer menu - Click on the "see more" button to get the beer details fetched by API call, <br>
 :artist: [Handcrafted animated navigation bar](https://toolbar-animation-icon.netlify.app/) - Animated navigation bar,<br>
-:woman_artist: [Wix layout replica](https://wix-layout-replica.netlify.app/) - Wix webpage layout replica.
+
 <br />
 <br />
 
