@@ -6,7 +6,7 @@ One of my favorite coding hobby? Pick an animation on Dribbble and rebuild it fr
 <br />
 
 ## Last projects:
-:weight_lifting_woman: [#WORD](https://workoutrecorddiary.netlify.app/) - I'm currently designing and building a React app to track and record workout performances,<br>
+:performing_arts: [Homerun](https://uptechflo.netlify.app/) - is a responsive React layout integration,<br>
 :shopping: [Elegance](https://fashionlayout.netlify.app/) - Fine-tuning an e-commerce landing page,<br>
 :writing_hand: Just finished writing an [article](https://medium.com/@clara.chaouat/how-mentorship-can-level-up-your-coding-skills-after-a-bootcamp-or-as-a-self-taught-developer-b3a536918c20) about mentorship.
 <br />
@@ -15,7 +15,7 @@ One of my favorite coding hobby? Pick an animation on Dribbble and rebuild it fr
 ## Previous projects:
 :beer: [Beers menu](https://beersmenu.netlify.app/) - Beer menu - Click on the "see more" button to get the beer details fetched by API call, <br>
 :artist: [Handcrafted animated navigation bar](https://toolbar-animation-icon.netlify.app/) - Animated navigation bar,<br>
-:weight_lifting_woman: [#WORD](https://workoutrecorddiary.netlify.app/) - WORD is a React application to track and record workout performances,<br>
+:weight_lifting_woman: [#WORD](https://workoutrecorddiary.netlify.app/) - #WORD is a React application to track and record workout performances,<br>
 
 <br />
 <br />
