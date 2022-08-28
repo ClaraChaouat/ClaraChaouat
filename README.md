@@ -7,6 +7,7 @@ One of my favorite coding hobby? Pick an animation on Dribbble and rebuild it fr
 
 ## Last projects:
 :performing_arts: [Homerun](https://uptechflo.netlify.app/) - is a responsive React layout integration,<br>
+ - Implemented Aleop - Foodspring partnership layout 
 :shopping: [Elegance](https://fashionlayout.netlify.app/) - Fine-tuning an e-commerce landing page,<br>
 :writing_hand: Just finished writing an [article](https://medium.com/@clara.chaouat/how-mentorship-can-level-up-your-coding-skills-after-a-bootcamp-or-as-a-self-taught-developer-b3a536918c20) about mentorship.
 <br />
