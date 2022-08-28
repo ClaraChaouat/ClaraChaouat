@@ -7,7 +7,7 @@ One of my favorite coding hobby? Pick an animation on Dribbble and rebuild it fr
 
 ## Last projects:
 :performing_arts: [Homerun](https://uptechflo.netlify.app/) - is a responsive React layout integration,<br>
-:ice_cream::weight_lifting_man:[Aleop x Foodspring](https://aleop-foodspring.netlify.app) - Implemented Aleop x Foodspring partnership layout,<br>
+:weight_lifting_man::ice_cream:[Aleop x Foodspring](https://aleop-foodspring.netlify.app) - Implemented Aleop:registered: x Foodspring:registered: partnership layout,<br>
 :shopping: [Elegance](https://fashionlayout.netlify.app/) - Fine-tuning an e-commerce landing page,<br>
 
 <br />
