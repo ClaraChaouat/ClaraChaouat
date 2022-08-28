@@ -16,7 +16,7 @@ One of my favorite coding hobby? Pick an animation on Dribbble and rebuild it fr
 ## Previous projects:
 :beer: [Beers menu](https://beersmenu.netlify.app/) - Beer menu - Click on the "see more" button to get the beer details fetched by API call, <br>
 :artist: [Handcrafted animated navigation bar](https://toolbar-animation-icon.netlify.app/) - Animated navigation bar,<br>
-:weight_lifting_woman: [#WORD](https://workoutrecorddiary.netlify.app/) - #WORD is a React application to track and record workout performances.<br>
+:weight_lifting_woman: [#WORD](https://workoutrecorddiary.netlify.app/) - #WORD [Work Out Record Diary] is a React application to track and record workout performances.<br>
 
 <br />
 <br />
