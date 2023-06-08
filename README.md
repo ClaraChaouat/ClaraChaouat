@@ -2,6 +2,8 @@
 
 I'm a creative Frontend Web Developer who aims to create experiences that look and function beautifully across anything that can access the web. <br>My goal is to create front-end code that’s modular, responsive, performant, extensible, accessible, and future-friendly.<br>
 One of my favorite coding hobby? Pick an animation on Dribbble and rebuild it from scratch using HTML, CSS and Vanilla JavaScript.
+
+If you want to connect with me :point_right: https://calendly.com/clara-chaouat/30min
 <br />
 <br />
 
