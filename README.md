@@ -8,17 +8,18 @@ If you want to talk about a project with me :point_right: https://calendly.com/c
 <br />
 
 ## Last projects:
+:artist: [Handcrafted animated navigation bar](https://toolbar-animation-icon.netlify.app/) - Animated navigation bar, Click the icons!<br>
+:weight_lifting_woman: [#WORD](https://workoutrecorddiary.netlify.app/) - #WORD [Work Out Record Diary] is a React application to track and record workout performances.<br>
 :performing_arts: [Homerun](https://uptechflo.netlify.app/) - is a responsive React layout integration,<br>
-:weight_lifting_man::ice_cream:[Aleop x Foodspring](https://aleop-foodspring.netlify.app) - Implemented Aleop:registered: x Foodspring:registered: partnership layout,<br>
-:beer: [Beers menu](https://beersmenu.netlify.app/) - Beer menu - Click on the "see more" button to get the beer details fetched by API call, <br>
 :shopping: [Elegance](https://fashionlayout.netlify.app/) - Fine-tuning an e-commerce landing page,<br>
 
 <br />
 <br />
 
 ## Previous projects:
-:artist: [Handcrafted animated navigation bar](https://toolbar-animation-icon.netlify.app/) - Animated navigation bar,<br>
-:weight_lifting_woman: [#WORD](https://workoutrecorddiary.netlify.app/) - #WORD [Work Out Record Diary] is a React application to track and record workout performances.<br>
+
+:weight_lifting_man::ice_cream:[Aleop x Foodspring](https://aleop-foodspring.netlify.app) - Implemented Aleop:registered: x Foodspring:registered: partnership layout,<br>
+:beer: [Beers menu](https://beersmenu.netlify.app/) - Beer menu - Click on the "see more" button to get the beer details fetched by API call, <br>
 
 <br />
 <br />
