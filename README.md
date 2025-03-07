@@ -10,7 +10,6 @@ If you want to talk about a project with me :point_right: https://calendly.com/c
 ## Last projects:
 :artist: [Handcrafted animated navigation bar](https://toolbar-animation-icon.netlify.app/) - Animated navigation bar, Click the icons!<br>
 :weight_lifting_woman: [#WORD](https://workoutrecorddiary.netlify.app/) - #WORD [Work Out Record Diary] is a React application to track and record workout performances.<br>
-:performing_arts: [Homerun](https://uptechflo.netlify.app/) - is a responsive React layout integration,<br>
 :shopping: [Elegance](https://fashionlayout.netlify.app/) - Fine-tuning an e-commerce landing page,<br>
 
 <br />
