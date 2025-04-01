@@ -7,24 +7,8 @@ If you want to talk about a project with me :point_right: https://calendly.com/c
 <br />
 <br />
 
-## Last projects:
-:artist: [Handcrafted animated navigation bar](https://toolbar-animation-icon.netlify.app/) - Animated navigation bar, Click the icons!<br>
-:weight_lifting_woman: [#WORD](https://workoutrecorddiary.netlify.app/) - #WORD [Work Out Record Diary] is a React application to track and record workout performances.<br>
-:shopping: [Elegance](https://fashionlayout.netlify.app/) - Fine-tuning an e-commerce landing page,<br>
-
-<br />
-<br />
-
-## Previous projects:
-
-:weight_lifting_man::ice_cream:[Aleop x Foodspring](https://aleop-foodspring.netlify.app) - Implemented Aleop:registered: x Foodspring:registered: partnership layout,<br>
-:beer: [Beers menu](https://beersmenu.netlify.app/) - Beer menu - Click on the "see more" button to get the beer details fetched by API call, <br>
-
-<br />
-<br />
-
 ## Article:
-:writing_hand: Just finished writing an [article](https://medium.com/@clara.chaouat/how-mentorship-can-level-up-your-coding-skills-after-a-bootcamp-or-as-a-self-taught-developer-b3a536918c20) about mentorship.
+:writing_hand: wrote an article about mentorship [article](https://medium.com/@clara.chaouat/how-mentorship-can-level-up-your-coding-skills-after-a-bootcamp-or-as-a-self-taught-developer-b3a536918c20) about mentorship.
 
 <br />
 <br />
